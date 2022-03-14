@@ -8,9 +8,9 @@
 
 * "perm()" function
 
-<img src="https://user-images.githubusercontent.com/77608922/158099324-331183e1-21db-4192-847c-0e83886f31a1.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/77608922/158099324-331183e1-21db-4192-847c-0e83886f31a1.png" width="60%" height="60%">
 
 
 * result
 
-<img src="https://user-images.githubusercontent.com/77608922/158099407-7ce59d1b-90da-47f4-99a0-9bdfce241ffd.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/77608922/158099407-7ce59d1b-90da-47f4-99a0-9bdfce241ffd.png" width="60%" height="60%">
