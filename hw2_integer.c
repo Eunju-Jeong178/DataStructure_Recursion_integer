@@ -1,5 +1,3 @@
-//ÀÚ·á±¸Á¶(003ºĞ¹İ)_±â°è½Ã½ºÅÛÇĞºÎ_1816862_Á¤ÀºÁÖ
-
 #pragma warning (disable:4996)
 #include <stdio.h>
 #define MAX 5
@@ -41,13 +39,13 @@ void swap(int* a, int* b) {
 }
 void inputData(int list[], int* n) {
 	int k;
-	printf("\n¼ø¿­ ¼ıÀÚ µ¥ÀÌÅÍ °³¼ö ÀÔ·Â: ");
+	printf("\nìˆœì—´ ìˆ«ì ë°ì´í„° ê°œìˆ˜ ì…ë ¥: ");
 	scanf("%d", n);
 
 	for (k = 0; k < *n; k++)
 		scanf("%d", &list[k]);
 
-	printf("¼ø¿­ °á°ú\n");
+	printf("ìˆœì—´ ê²°ê³¼\n");
 	//printf("n = %d\n", *n);
 	//for (k = 0; k < *n; k++)
 	//	printf("%d", &list[k]);
