@@ -1,3 +1,5 @@
+// by Eunju Jeong
+
 #pragma warning (disable:4996)
 #include <stdio.h>
 #define MAX 5
