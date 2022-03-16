@@ -1,4 +1,4 @@
-// by Eunju Jeong
+// by Eunju Jeong, eunju0316@sookmyung.ac.kr
 
 #pragma warning (disable:4996)
 #include <stdio.h>
